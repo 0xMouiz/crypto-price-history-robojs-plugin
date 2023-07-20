@@ -1,0 +1,6 @@
+export default (()=>{
+// Your code here...
+// This gets called when your bot detects a new message
+});
+
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIkU6XFxQcm9ncmFtbWluZ1xcUHJvamVjdHNcXFJvYm9QbGF5IFBsdWdpbnNcXGNyeXB0by1wcmljZS1oaXN0b3J5XFxjcnlwdG8tcHJpY2UtaGlzdG9yeVxcc3JjXFxldmVudHNcXG1lc3NhZ2VDcmVhdGUudHMiXSwic291cmNlc0NvbnRlbnQiOlsiZXhwb3J0IGRlZmF1bHQgKCkgPT4ge1xuXHQvLyBZb3VyIGNvZGUgaGVyZS4uLlxuXHQvLyBUaGlzIGdldHMgY2FsbGVkIHdoZW4geW91ciBib3QgZGV0ZWN0cyBhIG5ldyBtZXNzYWdlXG59XG4iXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUEsZUFBZSxDQUFBO0FBQ2Qsb0JBQW9CO0FBQ3BCLHVEQUF1RDtBQUN4RCxDQUFBLEVBQUMifQ==

@@ -1,0 +1,45 @@
+{
+  "name": "crypto-price-history",
+  "description": "",
+  "version": "1.0.1",
+  "type": "module",
+  "scripts": {
+    "build": "robo build plugin",
+    "dev": "robo build plugin --watch",
+    "lint": "npm lint:eslint && npm lint:style",
+    "lint:eslint": "eslint . --ext js,jsx,ts,tsx",
+    "lint:style": "prettier --write ."
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "chartjs-node-canvas": "^4.1.6",
+    "fs-extra": "^11.1.1"
+  },
+  "devDependencies": {
+    "@roboplay/robo.js": "latest",
+    "@swc/core": "^1.3.44",
+    "@types/fs-extra": "^11.0.1",
+    "@types/node": "^18.14.6",
+    "@typescript-eslint/eslint-plugin": "^5.56.0",
+    "@typescript-eslint/parser": "^5.56.0",
+    "discord.js": "^14.7.1",
+    "eslint": "^8.36.0",
+    "prettier": "^2.8.5",
+    "typescript": "^5.0.0"
+  },
+  "keywords": [
+    "roboplay",
+    "robo",
+    "plugin",
+    "crypto",
+    "price",
+    "chart",
+    "chartjs",
+    "money",
+    "finance",
+    "fintech",
+    "discord",
+    "bot",
+    "discordjs"
+  ]
+}
